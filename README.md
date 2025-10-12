@@ -1,6 +1,6 @@
 # Zombees Guides — Public README & Issue Tracker
 
-![Zombees logo](images/logo.png)
+<img src="assets/logo.png" alt="drawing" width="200"/>
 
 This repository tracks issues, bug reports and improvement requests for the mobile app **Zombees Guides**.
 
