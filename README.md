@@ -9,11 +9,11 @@ This repository tracks issues, bug reports and improvement requests for the mobi
 ## App links
 <p>
 	<a href="https://play.google.com/store/apps/details?id=be.zombees.guides">
-		<img src="assets/play_badge.svg" alt="Get it on Google Play" width="135" />
+		<img src="assets/play_badge.webp" alt="Get it on Google Play" width="135" />
 	</a>
 	&nbsp;
 	<a href="https://apps.apple.com/app/idYOUR_APP_ID">
-		<img src="assets/appstore_badge.svg" alt="Download on the App Store" width="135" />
+		<img src="assets/appstore_badge.webp" alt="Download on the App Store" width="135" />
 	</a>
 </p>
 
