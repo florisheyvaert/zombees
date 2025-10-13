@@ -11,7 +11,6 @@ This repository tracks issues, bug reports and improvement requests for the mobi
 	<a href="https://play.google.com/store/apps/details?id=be.zombees.guides">
 		<img src="assets/play_badge.webp" alt="Get it on Google Play" width="135" />
 	</a>
-	&nbsp;
 	<a href="https://apps.apple.com/app/idYOUR_APP_ID">
 		<img src="assets/appstore_badge.webp" alt="Download on the App Store" width="135" />
 	</a>
@@ -20,7 +19,7 @@ This repository tracks issues, bug reports and improvement requests for the mobi
 ---
 
 ## What is this app?
-Zombees Guides is a small companion app for Call of Duty Zombies. Think of it as a quick-reference companion while you're solving an Easter Egg (EE) — step-by-step instructions, helpful images, and small hints so you and your team can focus on the run.
+Zombees Guides is a small companion app for Call of Duty Zombies. Think of it as a quick-reference companion while you're solving an Easter Egg (EE) — step-by-step instructions, helpful images, and small hints so you can focus on the run.
 
 The app is designed to be lightweight and fast: use it mid-game, glance at the next step, mark progress, and get back to playing.
 
@@ -40,9 +39,11 @@ I'll triage issues regularly and prioritize fixes and improvements.
 ---
 
 ## Why I built this
-I grew up playing Black Ops 3 and loved the creativity of the Easter Eggs. Years later, remembering every step became harder and runs became more chaotic without a single shared reference.
+I grew up playing Black Ops 3 and loved the creativity of the Easter Eggs. Years later, remembering every step became harder and runs became more chaotic without a single shared reference. A few steps are also annoying to perform or hard to do.
 
 I wanted a simple companion that could live in my pocket during a run — something my friends and I could rely on to coordinate and remember the steps. I started this project to capture those steps, and to build a small community around preserving and improving guides together.
+
+The tools are so helpful and is something I missed years ago. Doing those steps and remembering all the different symbols or colors is hard while fighting zombies. At the moment almost all of the tools target Black Ops 3, since I played that the most.
 
 ---
 
@@ -50,14 +51,10 @@ I wanted a simple companion that could live in my pocket during a run — someth
 - Report issues and unclear steps
 - Suggest improvements or additional images
 - Contribute to guides
+- Suggest new tools
 
-Contributions are welcome — open a PR or start a discussion via GitHub Issues.
-
----
-
-## Contact
-For quick questions or to share guide assets, open an issue. You can also find me on GitHub via my profile.
+Contributions are welcome — start a discussion via GitHub Issues.
 
 ---
 
-Thanks for checking out Zombees Guides — let's build a helpful companion and a friendly community around it!
+Thanks for checking out Zombees Guides — let's build a helpful companion!
